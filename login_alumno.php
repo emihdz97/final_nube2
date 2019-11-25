@@ -19,7 +19,6 @@
 
   <body class="text-center">
     <form class="form-signin" action="alumno.php" method="post">
-      <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
       <h1 class="h3 mb-3 font-weight-normal">Sistema Alumnos</h1>
       <label for="inputEmail" class="sr-only">Matricula</label>
       <input class="form-control" placeholder="Matricula" required autofocus name="matricula">
