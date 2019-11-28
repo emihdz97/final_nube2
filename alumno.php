@@ -66,9 +66,9 @@
         
     <div class="row">
         <div class="col-3">Nombre de la materia</div>
-        <div class="col-3">Calificación primer parcial</div>
-        <div class="col-3">Calificación segundo parcial</div>
-        <div class="col-3">Calificación final</div>
+        <div class="col-3">Calificación Académica</div>
+        <div class="col-3">Calificación de Equipo</div>
+        <div class="col-3">Calificación de Comunicación</div>
     </div>
         <?php
                 do{

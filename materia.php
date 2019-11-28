@@ -56,9 +56,9 @@
         <div class="col-3">Nombre</div>
         <div class="col-3">Apellido</div>
         <div class="col-2">Matrícula</div>
-        <div class="col-1">P1</div>
-        <div class="col-1">P2</div>
-        <div class="col-1">Final</div>
+        <div class="col-1">C. Academica</div>
+        <div class="col-1">C. Equipo</div>
+        <div class="col-1">C. Comunicacion</div>
         <div class="col-1">Cambiar</div>
       </div>
         
